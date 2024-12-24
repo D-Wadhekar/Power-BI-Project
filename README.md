@@ -6,7 +6,7 @@ party wise alliance group
 Assembly wise candidate contested candidates
 Assembly wise region and district mapping
 
-We found in tgis project 
+We found in tḥis project 
 Alliance Wise party won seats 
 Party wise candidates won
 % of alliace won seats compare to contested
